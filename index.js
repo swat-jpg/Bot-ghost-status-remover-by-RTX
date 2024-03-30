@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Duping With Anti Ark];
+const statusMessages = ["Duping With Anti Ark"];
 
 
 let currentIndex = 0;
